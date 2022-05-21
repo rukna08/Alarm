@@ -8,3 +8,9 @@ It uses 12-hr format.
 
 After clicking the START button, a CLI (Command Line Interface) opens up and waits for the alarm time, when the current time is equal to the alarm time,
 it plays a random music from a folder where all the music or sfx are stored. Any number of music or sfx can be added in that folder freely.
+
+## Instructions
+
+1. Open the AlarmCLI directory, press build.bat or opening command prompt and executing build will both result in a build directory with the required files.
+2. Navigate back to the Alarm directory and open the AlarmGUI directory, double-click to open AlarmGUI.sln (This part needs Microsoft Visual Studio) and build the project.
+3. Close Visual Studio and go to bin/Debug and open the AlarmGUI.exe (executable) file and enjoy!
