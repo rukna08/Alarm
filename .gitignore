@@ -1,0 +1,4 @@
+AlarmGUI/bin
+AlarmGUI/obj
+AlarmCLI/build
+AlarmCLI/*.txt
